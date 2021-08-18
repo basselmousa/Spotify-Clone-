@@ -1,4 +1,4 @@
-package com.plcoding.spotifycloneyt
+package com.bassel.myspotifyclone
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
